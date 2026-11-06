@@ -5,36 +5,36 @@
         "1": {
           "mean_acc": 0.6566133459210396,
           "ci95": 0.010074966897881467,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_84px_seed1_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed1_1shot.pth"
         },
         "5": {
           "mean_acc": 0.8232000199556351,
           "ci95": 0.007503535239368835,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_84px_seed1_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed1_5shot.pth"
         }
       },
       "2": {
         "1": {
           "mean_acc": 0.6515200130343437,
           "ci95": 0.010303131261166304,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_84px_seed2_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed2_1shot.pth"
         },
         "5": {
           "mean_acc": 0.8193600195050239,
           "ci95": 0.007249039976517292,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_84px_seed2_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed2_5shot.pth"
         }
       },
       "3": {
         "1": {
           "mean_acc": 0.6404800133109093,
           "ci95": 0.01071522170228724,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_84px_seed3_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed3_1shot.pth"
         },
         "5": {
           "mean_acc": 0.8126666851043701,
           "ci95": 0.0068646155246265975,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_84px_seed3_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed3_5shot.pth"
         }
       }
     },
@@ -43,24 +43,24 @@
         "1": {
           "mean_acc": 0.8061066855192185,
           "ci95": 0.009205778885183272,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed1_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_224px_seed1_1shot.pth"
         },
         "5": {
           "mean_acc": 0.9250933570861817,
           "ci95": 0.005375097110383687,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed1_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_224px_seed1_5shot.pth"
         }
       },
       "2": {
         "1": {
           "mean_acc": 0.8090666849017143,
           "ci95": 0.008686147996519856,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed2_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_224px_seed2_1shot.pth"
         },
         "5": {
           "mean_acc": 0.9250133563280105,
           "ci95": 0.005258274100633238,
-          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed2_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_224px_seed2_5shot.pth"
         }
       },
       "3": {
