@@ -50,6 +50,18 @@
           "ci95": 0.005375097110383687,
           "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed1_5shot.pth"
         }
+      },
+      "2": {
+        "1": {
+          "mean_acc": 0.8090666849017143,
+          "ci95": 0.008686147996519856,
+          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed2_1shot.pth"
+        },
+        "5": {
+          "mean_acc": 0.9250133563280105,
+          "ci95": 0.005258274100633238,
+          "ckpt_path": "/content/cub200_workdir/best_mobile_proto_cub200_224px_seed2_5shot.pth"
+        }
       }
     }
   },
