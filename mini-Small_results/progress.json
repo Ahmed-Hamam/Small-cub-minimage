@@ -1,0 +1,19 @@
+{
+  "results": {
+    "84": {
+      "1": {
+        "1": {
+          "mean_acc": 0.6165066803693772,
+          "ci95": 0.008892199030878315,
+          "ckpt_path": "/kaggle/working/miniimagenet_workdir/best_mobile_proto_miniimagenet_84px_seed1_1shot.pth"
+        },
+        "5": {
+          "mean_acc": 0.8178666858077049,
+          "ci95": 0.00693320850582263,
+          "ckpt_path": "/kaggle/working/miniimagenet_workdir/best_mobile_proto_miniimagenet_84px_seed1_5shot.pth"
+        }
+      }
+    }
+  },
+  "matched": {}
+}
